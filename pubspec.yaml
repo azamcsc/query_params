@@ -5,7 +5,7 @@ author: 'Carlos Gonzalez justdevelopitmx@gmail.com'
 homepage: https://github.com/karurosux/query_params
 
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
